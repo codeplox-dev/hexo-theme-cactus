@@ -1,10 +1,10 @@
 nav:
-  home: Home
+  home: Blog
   about: About
-  articles: Writing
+  articles: Archive
   tag: Tag
   category: Category
-  projects: Projects
+  projects: Github
   search: Search
 
 icons:
@@ -15,11 +15,11 @@ footer:
   copyright: Copyright
 
 index:
-  find_me_on: Find me on
+  find_me_on: Find us at
   enum_comma: ','
   enum_and: and
-  articles: Writing
-  projects: Projects
+  articles: Posts
+  projects: Github
   topics: Topics
   most_recent: Most recent
 
